@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">app-jogo-dado</string>
+    <string name="button_text">Jogar</string>
+    <string name="titulo_main">Jogar Dado</string>
+    <string name="msg_repeat">Valor Repetido</string>
+    <string name="title_repeated_number_acitivty">O valor repetido foi: %d</string>
+</resources>

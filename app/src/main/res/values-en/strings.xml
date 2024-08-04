@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">app-jogo-dado</string>
+    <string name="button_text">Play</string>
+    <string name="titulo_main">Throw the dice</string>
+    <string name="msg_repeat">Repeat Value</string>
+    <string name="title_repeated_number_acitivty">Value repeat is: %d</string>
+</resources>
